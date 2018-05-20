@@ -1,1 +1,1 @@
-JavaScript for making all images on a page grow once loaded. See index.html for an example of usage.
+JavaScript for making all images on a page grow once loaded. See index.html for an example of usage. Also, images must start off with their visibility hidden for this script to work.
